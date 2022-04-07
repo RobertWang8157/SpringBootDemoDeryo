@@ -13,6 +13,7 @@ private MemberController memberControler;
 	@Test
 	void contextLoads() {
 		memberControler.getMember();
+//this is a test
 	}
 
 }

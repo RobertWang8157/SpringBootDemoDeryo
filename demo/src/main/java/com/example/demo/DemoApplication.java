@@ -26,7 +26,7 @@ public class DemoApplication extends SpringBootServletInitializer{
 	public static void main(String[] args) {
 
 		ConfigurableApplicationContext context = SpringApplication.run(DemoApplication.class, args);
-		
+		//This is another test
 //		ApplicationContext context2 = new AnnotationConfigApplicationContext(DemoApplication.class);
 		
 //		Alien alien=context.getBean(Alien.class);
